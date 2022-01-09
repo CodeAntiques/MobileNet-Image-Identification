@@ -1,0 +1,66 @@
+body{
+    background-color: cornflowerblue;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:rgb(0, 255, 213)
+}
+html{
+    background-color: cornflowerblue;
+}
+.header{
+    background-color: limegreen;
+    border-radius: 20px;
+    width: 100%;
+    align-self: center;
+}
+.header img{
+    width: 80px;
+    border-radius: 90%;
+}
+.main{
+    background-color: olive;
+    padding: 10px;
+    margin-top: 20px;
+    border: 5px solid aqua;
+}
+.main label{
+    background-color: gold;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 20px rgb(255, 166, 0);
+    color: black;
+}
+#camera, #result{
+ border: 5px solid chocolate;
+ width: 310px;
+ height: 300px;
+ box-shadow: 5px 5px 20px mediumturquoise;
+ 
+}
+
+.footer_div{
+    color: beige;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 60px;
+}
+.footer_div img{
+    width: 70px;
+}
+.footer_div h4{
+    margin-bottom: 50px;
+    background: beige;
+    color: darkslategray;
+    
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    color: cadetblue;
+    background-color: darkgreen;
+    width: 100%;
+    font-size: 35px;
+}
